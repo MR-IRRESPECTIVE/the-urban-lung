@@ -1,0 +1,247 @@
+{
+    "vegetable peel": {
+        "bin": "green",
+        "type": "Biodegradable Waste",
+        "instruction": "Goes in the GREEN bin. This waste will be composted."
+    },
+    "fruit peel": {
+        "bin": "green",
+        "type": "Biodegradable Waste",
+        "instruction": "Goes in the GREEN bin. This waste will be composted."
+    },
+    "leftover food": {
+        "bin": "green",
+        "type": "Biodegradable Waste",
+        "instruction": "Goes in the GREEN bin. This waste will be composted."
+    },
+    "rotten vegetables": {
+        "bin": "green",
+        "type": "Biodegradable Waste",
+        "instruction": "Goes in the GREEN bin. This waste will be composted."
+    },
+    "egg shells": {
+        "bin": "green",
+        "type": "Biodegradable Waste",
+        "instruction": "Goes in the GREEN bin. This waste will be composted."
+    },
+    "tea leaves": {
+        "bin": "green",
+        "type": "Biodegradable Waste",
+        "instruction": "Goes in the GREEN bin. This waste will be composted."
+    },
+    "coffee grounds": {
+        "bin": "green",
+        "type": "Biodegradable Waste",
+        "instruction": "Goes in the GREEN bin. This waste will be composted."
+    },
+    "flowers": {
+        "bin": "green",
+        "type": "Biodegradable Waste",
+        "instruction": "Goes in the GREEN bin. This waste will be composted."
+    },
+    "puja flowers": {
+        "bin": "green",
+        "type": "Biodegradable Waste",
+        "instruction": "Goes in the GREEN bin. This waste will be composted."
+    },
+    "garden waste": {
+        "bin": "green",
+        "type": "Biodegradable Waste",
+        "instruction": "Goes in the GREEN bin. This waste will be composted."
+    },
+    "leaves": {
+        "bin": "green",
+        "type": "Biodegradable Waste",
+        "instruction": "Goes in the GREEN bin. This waste will be composted."
+    },
+    "coconut husk": {
+        "bin": "green",
+        "type": "Biodegradable Waste",
+        "instruction": "Goes in the GREEN bin. This waste will be composted."
+    },
+    "bones": {
+        "bin": "green",
+        "type": "Biodegradable Waste",
+        "instruction": "Goes in the GREEN bin. This waste will be composted."
+    },
+    "meat scraps": {
+        "bin": "green",
+        "type": "Biodegradable Waste",
+        "instruction": "Goes in the GREEN bin. This waste will be composted."
+    },
+    "food scraps": {
+        "bin": "green",
+        "type": "Biodegradable Waste",
+        "instruction": "Goes in the GREEN bin. This waste will be composted."
+    },
+    "plastic bottle": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin. Please rinse and dry before disposing."
+    },
+    "shampoo bottle": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin. Please rinse and dry before disposing."
+    },
+    "plastic container": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin. Please rinse and dry before disposing."
+    },
+    "plastic bag": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin. Best to avoid using these altogether."
+    },
+    "newspaper": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin. Keep it dry."
+    },
+    "magazine": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin. Keep it dry."
+    },
+    "paper": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin. Keep it dry."
+    },
+    "cardboard": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin. Flatten the box to save space."
+    },
+    "pizza box": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "If clean, goes in the BLUE bin. If very oily, tear off oily parts (GREEN bin) and recycle the rest."
+    },
+    "glass bottle": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin. Rinse before disposing."
+    },
+    "glass jar": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin. Rinse before disposing."
+    },
+    "metal can": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin. Rinse before disposing."
+    },
+    "aluminium foil": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin if clean. Crumple into a ball."
+    },
+    "milk packet": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin. Rinse and dry it first."
+    },
+    "tetrapak": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin. Flatten to save space."
+    },
+    "juice box": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin. Flatten to save space."
+    },
+    "chips packet": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin. This is multi-layered plastic and is hard to recycle."
+    },
+    "biscuit packet": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin. This is multi-layered plastic and is hard to recycle."
+    },
+    "old clothes": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Consider donating first. If unusable, place in the BLUE bin."
+    },
+    "thermocol": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin. It is not easily recyclable, try to avoid it."
+    },
+    "styrofoam": {
+        "bin": "blue",
+        "type": "Non-Biodegradable Waste",
+        "instruction": "Goes in the BLUE bin. It is not easily recyclable, try to avoid it."
+    },
+    "battery": {
+        "bin": "hazardous",
+        "type": "E-Waste / Hazardous",
+        "instruction": "DO NOT throw in regular bins. It contains harmful chemicals. Collect and give to a designated E-Waste collection center."
+    },
+    "light bulb": {
+        "bin": "hazardous",
+        "type": "E-Waste / Hazardous",
+        "instruction": "DO NOT throw in regular bins, especially CFLs which contain mercury. Collect and give to a designated E-Waste collection center."
+    },
+    "tube light": {
+        "bin": "hazardous",
+        "type": "E-Waste / Hazardous",
+        "instruction": "DO NOT throw in regular bins, especially CFLs which contain mercury. Collect and give to a designated E-Waste collection center."
+    },
+    "cfl": {
+        "bin": "hazardous",
+        "type": "E-Waste / Hazardous",
+        "instruction": "DO NOT throw in regular bins as it contains mercury. Collect and give to a designated E-Waste collection center."
+    },
+    "mobile phone": {
+        "bin": "hazardous",
+        "type": "E-Waste / Hazardous",
+        "instruction": "DO NOT throw in regular bins. Find a local e-waste collection point for safe disposal."
+    },
+    "electronics": {
+        "bin": "hazardous",
+        "type": "E-Waste / Hazardous",
+        "instruction": "DO NOT throw in regular bins. Find a local e-waste collection point for safe disposal."
+    },
+    "medicine": {
+        "bin": "hazardous",
+        "type": "Medical Waste",
+        "instruction": "Expired or unused medicines should not be thrown in bins. Return them to a pharmacy for safe disposal."
+    },
+    "syringe": {
+        "bin": "hazardous",
+        "type": "Medical Waste",
+        "instruction": "Extremely hazardous. Do not throw in bins. Contact a local clinic or hospital for safe biomedical waste disposal."
+    },
+    "sanitary pad": {
+        "bin": "hazardous",
+        "type": "Sanitary Waste",
+        "instruction": "Wrap securely in newspaper and place in a separate bag before putting in the BLUE bin. Handle with care."
+    },
+    "diaper": {
+        "bin": "hazardous",
+        "type": "Sanitary Waste",
+        "instruction": "Wrap securely and place in a separate bag before putting in the BLUE bin. Handle with care."
+    },
+    "paint can": {
+        "bin": "hazardous",
+        "type": "Chemical Waste",
+        "instruction": "Do not throw in bins, as it can contaminate soil and water. Check with KMC for hazardous waste collection days."
+    },
+    "pesticide bottle": {
+        "bin": "hazardous",
+        "type": "Chemical Waste",
+        "instruction": "Do not throw in bins. These are highly toxic. Check with KMC for hazardous waste collection days."
+    },
+    "broken glass": {
+        "bin": "hazardous",
+        "type": "Hazardous Household Waste",
+        "instruction": "Wrap carefully in thick newspaper and label it \"BROKEN GLASS\" before placing in the BLUE bin to protect sanitation workers."
+    }
+}
